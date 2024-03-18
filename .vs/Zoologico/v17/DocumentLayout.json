@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\Zoologico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0970285C-A1DC-4947-A031-33A1132E098B}|Zoologico\\Zoologico.csproj|c:\\users\\hp blue\\desktop\\tareas\\progra1\\zoologico\\zoologico\\clasesanimales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0970285C-A1DC-4947-A031-33A1132E098B}|Zoologico\\Zoologico.csproj|solutionrelative:zoologico\\clasesanimales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0970285C-A1DC-4947-A031-33A1132E098B}|Zoologico\\Zoologico.csproj|c:\\users\\hp blue\\desktop\\tareas\\progra1\\zoologico\\zoologico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0970285C-A1DC-4947-A031-33A1132E098B}|Zoologico\\Zoologico.csproj|solutionrelative:zoologico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 300,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\Zoologico\\Zoologico\\Program.cs",
+              "RelativeDocumentMoniker": "Zoologico\\Program.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\Zoologico\\Zoologico\\Program.cs",
+              "RelativeToolTip": "Zoologico\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:12:26.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClasesAnimales.cs",
+              "DocumentMoniker": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\Zoologico\\Zoologico\\ClasesAnimales.cs",
+              "RelativeDocumentMoniker": "Zoologico\\ClasesAnimales.cs",
+              "ToolTip": "C:\\Users\\HP BLUE\\Desktop\\Tareas\\Progra1\\Zoologico\\Zoologico\\ClasesAnimales.cs",
+              "RelativeToolTip": "Zoologico\\ClasesAnimales.cs",
+              "ViewState": "AQIAAPoBAAAAAAAAAAAiwAECAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:23:06.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
